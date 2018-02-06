@@ -1,4 +1,8 @@
-## Partner Activit (GitHub Refresh)
+## Partner Activity (GitHub Refresh)
+
+### Add Alias to Shell
+- Add an alias, **lol** that does the following:
+    - `git lol --oneline --graph --decorate --all`
 
 ### Step 1
 - 
@@ -14,3 +18,8 @@ After your partner has completed Step 1:
 - Go back to your copy of the game
 - Merge the `game-instructions` branch in your own repo (you can use a pull request or do it locally).
 - Go to the pull request your partner created and resolve any merge conflicts in your own repo.
+
+### Step 3 (Extra Credit)
+After you've completed the previous two steps, can you get the game working?
+ - Setup a GitHub Pages site for your game
+ - Have it launch the game when you visit the page
