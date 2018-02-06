@@ -13,6 +13,7 @@ Welcome to Opgility's GitHub Bootcamp!
 * [Plumbing Commands Workshop](https://github.com/githubtraining/plumbing-workshop)
 
 ## Day 1 - Agenda Links 
+* [Partner Activity](https://github.com/opsgilityschool/github-bootcamp/blob/master/Partner-Actvity.md)
 * [How Commits Are Made](https://githubtraining.github.io/training-manual/GH4D/15_reverting_commits.html#how-commits-are-made)
 * [Two Stage Commit](https://githubtraining.github.io/training-manual/GH4D/06_working_locally.html#the-two-stage-commit)
 * [Rewritting History with Git Reset](https://githubtraining.github.io/training-manual/GH4D/20_rewriting_history_git_reset.html#rewriting-history-with-git-reset)
