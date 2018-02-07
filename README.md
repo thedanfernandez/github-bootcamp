@@ -12,6 +12,12 @@ Welcome to Opgility's GitHub Bootcamp!
 * [Git Command Reference](https://git-scm.com/docs)
 * [Plumbing Commands Workshop](https://github.com/githubtraining/plumbing-workshop)
 
+## Add Test Files to Your Repository
+* Bash
+    * `for d in {1..6}; do touch "file${d}.md"; git add "file${d}.md"; git commit -m "adding file ${d}"; done`
+* PowerShell
+    * `for ($d=1; $d -le 6;$d++) { touch file$d.md; git add file$d.md; git commit -m "adding file$d.md";}`
+
 ## Day 1 - Agenda Links 
 * [Partner Activity](https://github.com/opsgilityschool/github-bootcamp/blob/master/Partner-Actvity.md)
 * [How Commits Are Made](https://githubtraining.github.io/training-manual/GH4D/15_reverting_commits.html#how-commits-are-made)
