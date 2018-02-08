@@ -4,6 +4,7 @@ Welcome to Opgility's GitHub Bootcamp!
 ## GitHub Guides
 * [GitHub Flow](https://guides.github.com/introduction/flow/)
 * [Git Handbook](https://guides.github.com/introduction/git-handbook/)
+* [Hello From Xinxin](http://bing.com/)
 
 ## GitHub Training
 * [Advanced Git](https://github.com/githubtraining/advanced-git)
